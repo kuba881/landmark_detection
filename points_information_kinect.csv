@@ -1,0 +1,41 @@
+﻿;Description of the points/area;index_1;side_1;index_2;side_2;calculate
+1;left and right corner of mouth;1122;left;1140;right;angle
+2;;1122;left;1141;right;angle
+3;;1122;left;1142;right;angle
+4;;1122;left;1143;right;angle
+5;;1123;left;1140;right;angle
+6;;1123;left;1141;right;angle
+7;;1123;left;1142;right;angle
+8;;1123;left;1143;right;angle
+9;;1124;left;1140;right;angle
+10;;1124;left;1141;right;angle
+11;;1124;left;1142;right;angle
+12;;1124;left;1143;right;angle
+13;left mouth corner and left eye outer corner;1122;left;1116;left;distance
+14;;1122;left;1117;left;distance
+15;;1123;left;1116;left;distance
+16;;1123;left;1117;left;distance
+17;;1124;left;1116;left;distance
+18;;1124;left;1117;left;distance
+19;right mouth corner and right eye outer corner;1140;right;1072;right;distance
+20;;1140;right;1118;right;distance
+21;;1141;right;1072;right;distance
+22;;1141;right;1118;right;distance
+23;;1142;right;1072;right;distance
+24;;1142;right;1118;right;distance
+25;;1143;right;1072;right;distance
+26;;1143;right;1118;right;distance
+27;left mouth corner and left eye inner corner;1122;left;1076;left;distance
+28;;1122;left;1077;left;distance
+29;;1123;left;1076;left;distance
+30;;1123;left;1077;left;distance
+31;;1124;left;1076;left;distance
+32;;1124;left;1077;left;distance
+33;right mouth corner and right eye inner corner;1140;right;1098;right;distance
+34;;1140;right;1099;right;distance
+35;;1141;right;1098;right;distance
+36;;1141;right;1099;right;distance
+37;;1142;right;1098;right;distance
+38;;1142;right;1099;right;distance
+39;;1143;right;1098;right;distance
+40;;1143;right;1099;right;distance

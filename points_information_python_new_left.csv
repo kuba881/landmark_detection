@@ -1,0 +1,18 @@
+﻿;Description of the points/area;index_1;side_1;index_2;side_2;calculate
+0;left and right corner of mouth;185;left;246;right;distance
+1;;185;left;155;right;distance
+2;;291;left;133;right;distance
+3;;291;left;173;right;distance
+4;;291;left;155;right;distance
+5;;308;left;133;right;distance
+6;;308;left;155;right;distance
+7;;308;left;173;right;distance
+8;;146;left;398;right;distance
+9;left mouth corner and left eye outer corner;146;left;382;left;distance
+10;;146;left;362;left;distance
+11;;183;left;398;left;distance
+12;;183;left;382;left;distance
+13;;183;left;362;left;distance
+14;;291;left;133;left;distance
+15;;291;left;155;left;distance
+16;;291;left;173;left;distance

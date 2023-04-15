@@ -1,0 +1,20 @@
+﻿;Description of the points/area;index_1;side_1;index_2;side_2;calculate
+0;;263;left;308;right;distance
+1;;308;left;398;right;distance
+2;;183;left;466;right;distance
+3;;183;left;249;right;distance
+4;;183;left;263;right;distance
+5;;183;left;398;right;distance
+6;;183;left;382;right;distance
+7;;183;left;362;right;distance
+8;;185;left;466;right;distance
+9;;185;left;249;left;distance
+10;;185;left;263;left;distance
+11;;185;left;398;left;distance
+12;;185;left;382;left;distance
+13;;185;left;362;left;distance
+14;;291;left;133;left;distance
+15;;291;left;173;left;distance
+16;;308;left;133;left;distance
+17;;308;left;155;left;distance
+18;;308;left;173;left;distance

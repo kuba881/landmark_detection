@@ -1,0 +1,7 @@
+﻿;Description of the points/area;index_1;side_1;index_2;side_2;calculate
+0;right side;146;left;246;left;distance
+1;right side;155;left;185;left;distance
+2;right side;183;left;362;right;distance
+3;left side;263;right;308;right;distance
+4;left side;308;right;398;right;distance
+5;left side;185;left;466;right;distance
