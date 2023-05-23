@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/574883894.svg)](https://zenodo.org/badge/latestdoi/574883894)
 # landmark_detection
 This project investigates facial asymmetry using Kinect v2 and a webcam for data collection. During balance system surgery, the facial nerve is severed and part of the face is paralyzed. The goal of this project is to create an application that would help doctors classify the degree of disability of a patient. The recording devices track specific points on the human face. Based on these points, the patient can be classified. 
 
